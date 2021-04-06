@@ -1,0 +1,30 @@
+﻿Build started 4/6/2021 1:58:16 PM.
+     1>Project "F:\Projects\OOP_Teaching\TasksSolved\Week 2\TasksSolved\TasksSolved.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\TasksSolved.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Battery.cpp CallInformation.cpp Date.cpp Display.cpp Telephone.cpp
+         Battery.cpp
+         CallInformation.cpp
+         Date.cpp
+         Display.cpp
+         Telephone.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Projects\OOP_Teaching\TasksSolved\Week 2\TasksSolved\Debug\TasksSolved.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"F:\Projects\OOP_Teaching\TasksSolved\Week 2\TasksSolved\Debug\TasksSolved.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Projects\OOP_Teaching\TasksSolved\Week 2\TasksSolved\Debug\TasksSolved.lib" /MACHINE:X86 Debug\Battery.obj
+         Debug\CallInformation.obj
+         Debug\Date.obj
+         Debug\Display.obj
+         Debug\main.obj
+         Debug\Telephone.obj
+         TasksSolved.vcxproj -> F:\Projects\OOP_Teaching\TasksSolved\Week 2\TasksSolved\Debug\TasksSolved.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\TasksSolved.tlog\unsuccessfulbuild".
+         Touching "Debug\TasksSolved.tlog\TasksSolved.lastbuildstate".
+     1>Done Building Project "F:\Projects\OOP_Teaching\TasksSolved\Week 2\TasksSolved\TasksSolved.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.53
